@@ -1,6 +1,6 @@
-### Assignment 4
+### Assignment 6
 
-*March 12th, 2019*
+*April 16th, 2019*
 
 ---
-For this assignment, I was tasked with creating a new poetic form and generating a number of poems from it. Rather straightforwardly, I've decided to call my new form "Chain Abstractions." Definitely check out my [documentation and examples](https://github.com/erinachavez/rwet_spring2019/blob/master/assignment4_031219/new_poetic_form.ipynb), and think on what aspects you may change or experiment with!
+With this assignment, I was free to either use word vectors or the CMU pronouncing dictionary to create a new poetic form. Thus after some experimenting, I decided to use the CMU pronouncing dictionary to create a program that could read in a text input, and create garbled sentences that *sound* similar to the original text.
