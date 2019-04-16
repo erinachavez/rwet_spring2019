@@ -1,6 +1,6 @@
-### Assignment 4
+### Assignment 5
 
-*March 12th, 2019*
+*April 2nd, 2019*
 
 ---
-For this assignment, I was tasked with creating a new poetic form and generating a number of poems from it. Rather straightforwardly, I've decided to call my new form "Chain Abstractions." Definitely check out my [documentation and examples](https://github.com/erinachavez/rwet_spring2019/blob/master/assignment4_031219/new_poetic_form.ipynb), and think on what aspects you may change or experiment with!
+This assignment was intended to allow us time to experiment with predictive text. After experimenting with both [textgenrnn](https://github.com/minimaxir/textgenrnn) and [markovify](https://github.com/jsvine/markovify), I decided to utilize markovify alongside [TwitterScraper](https://github.com/taspinar/twitterscraper), [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis), and [matplotlib](https://matplotlib.org/) to visualize sentences. The final product is [Synethesia Sentences](https://github.com/erinachavez/rwet_spring2019/blob/master/assignment5_040219/markov_chain_poem.ipynb); a program capable of turning tweets (or other texts!) into linguistically similar sentences with abstract visualizations.
