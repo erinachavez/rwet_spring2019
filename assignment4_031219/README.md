@@ -1,4 +1,4 @@
-### Assignment 4
+### Assignment 4: Chain Abstractions
 
 *March 12th, 2019*
 
