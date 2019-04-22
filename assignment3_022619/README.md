@@ -1,4 +1,4 @@
-### Assignment 3
+### Assignment 3: Digital Cut Up
 
 *February 26th, 2019*
 
