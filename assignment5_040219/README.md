@@ -1,4 +1,4 @@
-### Assignment 5
+### Assignment 5: Synesthesia Sentences
 
 *April 2nd, 2019*
 

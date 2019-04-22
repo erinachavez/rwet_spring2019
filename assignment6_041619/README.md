@@ -1,4 +1,4 @@
-### Assignment 6
+### Assignment 6: Garbled
 
 *April 16th, 2019*
 
