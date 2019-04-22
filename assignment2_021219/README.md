@@ -1,4 +1,4 @@
-### Assignment 2
+### Assignment 2: Poetry Generator
 
 *February 12th, 2019*
 
