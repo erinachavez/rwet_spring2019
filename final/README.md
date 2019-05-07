@@ -69,6 +69,7 @@ The blowing snow now feels misunderstood
 ![map4](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map04.png)
 ![map4_1](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map04_01.png)
 
+---
 
 ```
 In London, the light rain and breeze are automatic
