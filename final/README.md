@@ -24,7 +24,7 @@ The travel agent followed me and says
 "Who are you to decode?"
 The few clouds now are plateaued
 ```
-![map2](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map2.png)
+![map2](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map02.png)
 
 ---
 
@@ -45,7 +45,7 @@ Suddenly inside the laundromat, I hear
 "You are refusing to let something go that needs to be released"
 The shallow fog now feels deceased
 ```
-![map3](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map3.png)
+![map3](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map03.png)
 
 ---
 
@@ -66,9 +66,10 @@ The sociology teacher found me and says
 "You are doing what makes you feel good"
 The blowing snow now feels misunderstood
 ```
-![map4](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map4.png)
-![map4_1](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map4_1.png)
+![map4](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map04.png)
+![map4_1](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map04_01.png)
 
+---
 
 ```
 In London, the light rain and breeze are automatic
@@ -87,6 +88,6 @@ The tennis racket followed me and says
 "You are becoming a channel of divine will"
 The light rain and breeze now feels twill
 ```
-![map5](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map5.png)
-(My personal favorite, the rainbow shrimp tube map!)<br />
-<img src="https://github.com/erinachavez/rwet_spring2019/blob/master/final/rainbowshrimp.jpg" width="200px" style="margin:0 0 0 calc(100% - 200px)">
+![map5](https://github.com/erinachavez/rwet_spring2019/blob/master/final/map05.png)
+<p align="right">(My personal favorite, the rainbow shrimp tube map!)</p>
+<img src="https://github.com/erinachavez/rwet_spring2019/blob/master/final/rainbowshrimp.jpg" width="150px" align="right">
