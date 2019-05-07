@@ -20,3 +20,6 @@ by [Erina Chavez](https://erinachavez.github.io/index.html)
 - Assignment 6: Garbled
   - April 16th, 2019
   - [Descrition](https://github.com/erinachavez/rwet_spring2019/tree/master/assignment6_041619) | [Code](https://github.com/erinachavez/rwet_spring2019/blob/master/assignment6_041619/garbled.ipynb)
+- Final: The London Underground
+  - May 6th, 2019
+  - [Descrition](https://github.com/erinachavez/rwet_spring2019/tree/master/final) | [Code](https://github.com/erinachavez/rwet_spring2019/blob/master/final/the_london_underground.ipynb)
